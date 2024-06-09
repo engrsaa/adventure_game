@@ -1,5 +1,5 @@
 {
-  "name": "adventure_game",
+  "name": "@engrsaa/adventure_game",
   "version": "1.0.0",
   "description": "text based adventure game",
   "main": "index.js",
